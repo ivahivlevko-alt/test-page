@@ -7,3 +7,19 @@
     color: chocolate;
     margin-top: 100px;
 }
+.swiper{
+    height: 650px;
+    max-width: 900px;
+    margin: auto;
+}
+.swiper-slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.swiper-pagination-bullet-active{
+    background-color: aliceblue;
+}
+swiper-navigation-icon{
+    color: aliceblue;
+}
